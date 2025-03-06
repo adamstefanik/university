@@ -24,7 +24,7 @@ int main(void) {
     double AS_Obvod_zak = AS_a + AS_b + 2 * AS_b;
     double AS_Povrch = (2 * AS_Obsah_zak + AS_Obvod_zak) * AS_v;
 
-    //vypis
+    //Vypis
     printf("Objem hranolu: %.2lf cm³\n", AS_Objem);
     printf("Povrch hranolu: %.2lf cm²\n", AS_Povrch);
 
