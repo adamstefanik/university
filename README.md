@@ -4,7 +4,8 @@ Welcome to my university projects repository! This repository contains all my ac
 
 ## Structure
 - **First Year (2024-2025)**: Materials from my first year of studies
-  - [Spring Semester](first-year-2024-2025/spring-semester)
+  - [Fall Semester](first_year/fall-semester)
+  - [Spring Semester](first_year/spring-semester)
 - **Second Year (2025-2026)**: (To be added hopefully)
 - **Third Year (2026-2027)**: (To be added hopefully too)
 
