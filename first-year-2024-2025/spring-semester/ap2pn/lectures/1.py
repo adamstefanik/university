@@ -116,4 +116,3 @@ liza = Koza()
 
 print (brok.delej_zvuk())
 print (liza.delej_zvuk())
-
