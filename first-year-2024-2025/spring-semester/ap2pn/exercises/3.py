@@ -1,4 +1,5 @@
 #vytvorte pole ktore je simulacia hodu kockou, 20x hodite kockou, priemer + najnizsie
+import numpy as np
 
 #1. varianta
 hody = [] #vytvorim si python pole
