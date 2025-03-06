@@ -29,7 +29,7 @@ int main(void) {
     printf("Povrch hranolu: %.2lf cm²\n", AS_Povrch);
 
 //3
-    //predefinovanie
+    //Predefinovanie
     double AS_poc_rychlost = 0;
     double AS_rychlost = 27.78; //100km/h na m/s
     double AS_t = 5.5;
