@@ -19,13 +19,6 @@ Welcome to my Summer Semester folder! This is my second semester at university, 
 2. **Explore Hardware Architecture**: Learn the basics of computer hardware and how it interacts with software
 3. **Improve English Skills**: Enhance my ability to communicate technical concepts in English
 
-## Future Plans
-- As I progress through the semester, I'll add more materials here, including:
-  - Lecture notes
-  - Assignments
-  - Small projects
-  - Code snippets
-
 ---
 
 ### **How to Use This Folder**
