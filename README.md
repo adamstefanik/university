@@ -9,10 +9,6 @@ Welcome to my university projects repository! This repository contains all my ac
 - **Second Year (2025-2026)**: (To be added hopefully)
 - **Third Year (2026-2027)**: (To be added hopefully too)
 
-## Highlights
-- **Advanced Python Programming**: Explored advanced Python concepts
-- **Programming in C**: Gained understanding of C programming, including memory management and file I/O.
-
 ## How to Navigate
 - Each year contains folders for individual semesters.
 - Inside each semester folder, you will find:
