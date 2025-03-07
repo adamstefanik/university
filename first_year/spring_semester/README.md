@@ -22,7 +22,7 @@ Welcome to my Summer Semester folder! This is my second semester at university, 
 ---
 
 ### **How to Use This Folder**
-- This folder is currently almost empty, but it will soon be filled with materials as I progress through the semester.
+- This folder is currently almost empty, but it will soon be filled with materials as I progress through the semester
 - Check back later for updates!
 
 ---
